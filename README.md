@@ -47,6 +47,8 @@ go get -u github.com/tidwall/jd/cmd/jd
 ```
 
 
+For a very fast JSON stream editor, check out [jsoned](https://github.com/tidwall/jsoned).
+
 ## Contact
 Josh Baker [@tidwall](http://twitter.com/tidwall)
 
