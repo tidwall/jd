@@ -1,12 +1,6 @@
-<p align="center">
-<img 
-    src="https://github.com/tidwall/jd/wiki/images/logo.png" 
-    width="101" height="78" border="0" alt="SJSON">
-<br>
-Interactive JSON Editor
-</p>
+# JD - Interactive JSON Editor
 
-JD is an experimental tool for querying and editing JSON documents.
+It's an experimental tool for querying and editing JSON documents.
 It's basically a playground to show off the [GJSON](https://github.com/tidwall/gjson) path syntax. 
 
 ![demo-basic](https://github.com/tidwall/jd/wiki/images/demo-basic.gif)
