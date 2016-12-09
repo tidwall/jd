@@ -1,7 +1,7 @@
 # JD - Interactive JSON Editor
 
 It's an experimental tool for querying and editing JSON documents.
-It's basically a playground to show off the [GJSON](https://github.com/tidwall/gjson) path syntax. 
+It's basically a playground to show off the path syntax of [GJSON](https://github.com/tidwall/gjson).
 
 ![demo-basic](https://github.com/tidwall/jd/wiki/images/demo-basic.gif)
 
